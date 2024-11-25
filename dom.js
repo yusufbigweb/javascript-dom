@@ -11,9 +11,9 @@
 
 // 4. Traversing Elements
 
-    // 1.Selecting parent Elements
-    // 2.Selecting Child Elements
-    // 3.Selecting Sibling Elements
+    // 1.Selecting parent Elements ✅
+    // 2.Selecting Child Elements ✅
+    // 3.Selecting Sibling Elements ✅
 
 
 // 5. Mainpulating HTML Elements
