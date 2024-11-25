@@ -21,7 +21,7 @@
     //  1.createElement() ✅
     //  2.appendChild() ✅
     //  3.textContent() ✅
-    //  4.innerHTML()
+    //  4.innerHTML() ✅
     //  5.after()
     //  6.append()
     //  7.prepend()

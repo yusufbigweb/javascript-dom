@@ -75,8 +75,9 @@
         // /* innerText */ console.log(menu.innerText) // this innerText showing only display text formate but after appeid style just like display none his on console not shoing  console and textContent are show anything on content
         
         // innerHTML() ====================================
-
-        const menu = document.getElementById('menu')
-        menu.innerHTML = '<h1>Yusuf Shaikh</h1>';
-        console.log(menu)
-
+        
+        // const menu = document.getElementById('menu')
+        // menu.innerHTML = '<h1>Yusuf Shaikh</h1>';
+        // console.log(menu)
+        
+        // innerHTML() ====================================
