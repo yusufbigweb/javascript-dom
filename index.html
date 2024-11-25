@@ -8,33 +8,48 @@
 <body>
 
 
-    <div>
-        <div id="container">
-        <h1 class="message">First Heading</h1>
-        <h1 class="message">Second Heading</h1>
-         </div>
+    <div class="title">
+        <p class="mean">Hi' this is Yusuf Here...</p>
+        <p class="mean">Hi' this is Yusuf Here...</p>
+        <p class="mean">Hi' this is Yusuf Here...</p>
+        <p class="mean">Hi' this is Yusuf Here...</p>
+        <p class="mean">Hi' this is Yusuf Here...</p>
     </div>
     
 
     <script>
         
-        // getElementsByName()
+        // getElementsByName() ====================================
 
             // const btn = document.getElementsByName('language');
             // console.log(btn)
 
       
-        // getElementsByTagName();
+        // getElementsByTagName() ====================================
 
         // const btn = document.getElementsByTagName('h1');
         // console.log(btn);
 
-        // getElementByClassName
-        
-        const cont = document.getElementById('container')
-        const msg = cont.getElementsByClassName('message')
-        console.log(msg);
-        
+        // getElementByClassName() ====================================
+
+        // const cont = document.getElementById('container')
+        // const msg = cont.getElementsByClassName('message')
+        // console.log(msg);
+      
+        // querySelectorAll() and querySelector() ====================================
+
+        // const cont = document.getElementById('container');
+        // const msg = cont.querySelectorAll('div, h1')
+        // const msg = cont.querySelector('div, h1')
+        // console.log(cont)
+
+        // ================================ Traversing Elements ================================
+
+        // Selecting parent Elements - parentNode - how to taget child or all child elements
+
+        // const msg = document.querySelector('.mean')
+        // console.log(msg.parentNode)
+   
 
     </script>
 </body>
