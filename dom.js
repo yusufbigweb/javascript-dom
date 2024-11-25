@@ -2,11 +2,11 @@
 // 2.What is node and type of nodes
 // 3.Selecting elements using DOM
 
-    // 1.getElementsById()
-    // 2.getElementsByName()
-    // 3.getElementsByTagName()
-    // 4.getElementsByClassName()
-    // 5.querySelector(), QuerySelectorAll()
+    // 1.getElementsById() ✅
+    // 2.getElementsByName() ✅
+    // 3.getElementsByTagName()  ✅
+    // 4.getElementsByClassName() ✅ - how to used us a child selecting using getElementById
+    // 5.querySelector(), QuerySelectorAll() ✅
 
 
 // 4. Traversing Elements
@@ -59,8 +59,5 @@
         7. Event Object
         8. Different Types of Event
 
+*/
 
-
-
-
-*/ 
