@@ -48,11 +48,19 @@
 
         
         // createElement() ====================================
-
-        const container = document.createElement('div')
-        container.innerHTML = "<p>Yusuf Shaikh </p>";
-        document.body.appendChild(container)
         
-        container.id = "userName"
-
-        console.log(container)
+        // const container = document.createElement('div')
+        // container.innerHTML = "<p>Yusuf Shaikh </p>";
+        // document.body.appendChild(container)
+        // container.id = "userName"
+        // container.className = "userName"
+        // console.log(container)
+        
+        // appendChild() ====================================
+        
+        // const menu = document.getElementById('menu');
+        // const list = document.createElement('li');
+        // list.className = "items"
+        // list.innerHTML = "Contect";
+        // menu.appendChild(list)
+        // console.log(menu)
