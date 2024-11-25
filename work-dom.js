@@ -64,3 +64,19 @@
         // list.innerHTML = "Contect";
         // menu.appendChild(list)
         // console.log(menu)
+
+        // textContent() ====================================
+        
+        //     const menu = document.getElementById('menu')
+        //     const list = document.createElement('li')
+        //     list.innerHTML ="Contact"
+        //     menu.appendChild(list)
+        //  /* textContent */ console.log(menu.textContent) // this only text display on console
+        // /* innerText */ console.log(menu.innerText) // this innerText showing only display text formate but after appeid style just like display none his on console not shoing  console and textContent are show anything on content
+        
+        // innerHTML() ====================================
+
+        const menu = document.getElementById('menu')
+        menu.innerHTML = '<h1>Yusuf Shaikh</h1>';
+        console.log(menu)
+

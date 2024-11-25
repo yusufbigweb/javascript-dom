@@ -19,8 +19,8 @@
 // 5. Mainpulating HTML Elements
 
     //  1.createElement() ✅
-    //  2.appendChild()
-    //  3.textContent
+    //  2.appendChild() ✅
+    //  3.textContent() ✅
     //  4.innerHTML()
     //  5.after()
     //  6.append()
