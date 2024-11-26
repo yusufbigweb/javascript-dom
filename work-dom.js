@@ -81,3 +81,8 @@
         // console.log(menu)
         
         // innerHTML() ====================================
+
+          const menu = document.getElementById('menu');
+          console.log(menu)
+
+          menu.after("yusuf", "shaikh",  `96891529347`)
