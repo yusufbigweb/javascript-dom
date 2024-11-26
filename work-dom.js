@@ -80,9 +80,12 @@
         // menu.innerHTML = '<h1>Yusuf Shaikh</h1>';
         // console.log(menu)
         
-        // innerHTML() ====================================
-
-          const menu = document.getElementById('menu');
-          console.log(menu)
-
-          menu.after("yusuf", "shaikh",  `96891529347`)
+        // after() ====================================
+        
+        // const menu = document.getElementById('menu');
+        // console.log(menu)
+        
+        // menu.after("yusuf", "shaikh",  `96891529347`)
+        
+        
+        // append() ====================================

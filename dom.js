@@ -1,6 +1,8 @@
-// 1.What is DOM
-// 2.What is node and type of nodes
-// 3.Selecting elements using DOM
+// 1.What is DOM ✅
+// 2.What is node and type of nodes ✅
+
+
+// 3.Selecting elements using DOM 
 
     // 1.getElementsById() ✅
     // 2.getElementsByName() ✅
@@ -22,7 +24,7 @@
     //  2.appendChild() ✅
     //  3.textContent() ✅
     //  4.innerHTML() ✅
-    //  5.after()
+    //  5.after() ✅
     //  6.append()
     //  7.prepend()
     //  8.insertAdjacentHTML()
