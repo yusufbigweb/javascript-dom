@@ -105,8 +105,17 @@ console.log(second.nextElementSibling) // his showing Next Sibling - afeter :)
 
 // sureName.after(ps)
 
-
-// Experiment Code =================================
-
+// Experiment Code ==
 
 // append() ====================================
+
+
+
+
+let container2 = document.createElement('div')
+let para = document.createElement('p')
+para.innerHTML="Yusuf Shaikh"
+document.body.appendChild(container2)
+container2.id="container"
+container2.append("Yes i'am", para)
+
