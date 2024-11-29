@@ -118,3 +118,26 @@ console.log(second.nextElementSibling) // his showing Next Sibling - afeter :)
 
 
 // prepend() ====================================
+
+// const menu = document.getElementById('menu');
+// const list = document.createElement('li');
+// list.innerHTML="Shaikh"
+// menu.prepend(list, "yusuf shaikh prepend")
+
+
+// //append() === Again ===
+
+// const lists = document.createElement('li')
+// lists.textContent = "Arman"
+// menu.append(lists, "yusuf shaikh append")
+
+
+// insertAdjacentHTML() ====================================
+
+
+const menu = document.getElementById('menu');
+
+
+
+        
+

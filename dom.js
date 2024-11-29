@@ -7,7 +7,7 @@
     // 1.getElementsById() ✅
     // 2.getElementsByName() ✅
     // 3.getElementsByTagName()  ✅
-    // 4.getElementsByClassName() ✅ - how to used us a child selecting using getElementById
+    // 4.getElementsByClassName() ✅ - how to used us a child selecting using getElementByClassName
     // 5.querySelector(), QuerySelectorAll() ✅
 
 
@@ -26,7 +26,7 @@
     //  4.innerHTML() ✅
     //  5.after() ✅
     //  6.append() ✅
-    //  7.prepend() 
+    //  7.prepend() ✅
     //  8.insertAdjacentHTML()
     //  9.replaceChild()
     //  10.cloneNode()
