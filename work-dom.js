@@ -134,10 +134,27 @@ console.log(second.nextElementSibling) // his showing Next Sibling - afeter :)
 
 // insertAdjacentHTML() ====================================
 
-
+const objName1 = {
+    name: "Yusuf Shaikh",
+    age: 21,
+    prof: "student"
+}
 const menu = document.getElementById('menu');
+const btn = document.createElement('button')
+btn.innerText = "Para";
+document.body.appendChild(btn)
+btn.addEventListener('click', function () {
+    const listItems = document.createElement('li');
+    const container = document.createElement('div')
+    document.body.appendChild(container)
+    container.className = "container";
+    const listDisplay = listItems.innerText = "<p>This is insertAdjacentHTML - Yusuf Bro</p>";
+    container.insertAdjacentHTML("afterend", objName1.name)
+
+})
+const para = '<p>This is Paragph</p>'
+menu.insertAdjacentHTML("afterend", para)
 
 
 
-        
 
