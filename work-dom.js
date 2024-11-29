@@ -109,13 +109,12 @@ console.log(second.nextElementSibling) // his showing Next Sibling - afeter :)
 
 // append() ====================================
 
+// let container2 = document.createElement('div')
+// let para = document.createElement('p')
+// para.innerHTML="Yusuf Shaikh"
+// document.body.appendChild(container2)
+// container2.id="container"
+// container2.append("Yes i'am", para)
 
 
-
-let container2 = document.createElement('div')
-let para = document.createElement('p')
-para.innerHTML="Yusuf Shaikh"
-document.body.appendChild(container2)
-container2.id="container"
-container2.append("Yes i'am", para)
-
+// prepend() ====================================

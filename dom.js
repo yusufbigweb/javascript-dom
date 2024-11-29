@@ -25,8 +25,8 @@
     //  3.textContent() ✅
     //  4.innerHTML() ✅
     //  5.after() ✅
-    //  6.append()
-    //  7.prepend()
+    //  6.append() ✅
+    //  7.prepend() 
     //  8.insertAdjacentHTML()
     //  9.replaceChild()
     //  10.cloneNode()
