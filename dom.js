@@ -27,8 +27,8 @@
     //  5.after() ✅
     //  6.append() ✅
     //  7.prepend() ✅
-    //  8.insertAdjacentHTML()
-    //  9.replaceChild()
+    //  8.insertAdjacentHTML() ✅
+    //  9.replaceChild() 
     //  10.cloneNode()
     //  11.removeChild()
     //  12.insertBefore()
